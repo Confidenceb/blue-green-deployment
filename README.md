@@ -139,10 +139,3 @@ This project extends the Stage 2 Blue/Green setup by adding observability and re
 4. Run: `docker-compose up -d --build`
 
 ```
-
-### Alternative: If you want to keep the commits as-is
-
-You can allow the secret on GitHub by clicking the link in the error message:
-```
-
-https://github.com/Confidenceb/blue-green-deployment/security/secret-scanning/unblock-secret/34t0bvGqkISlDKgvV7gJOtLiuJk
